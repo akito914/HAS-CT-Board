@@ -1705,4 +1705,48 @@ F 3 "~" H 10450 2500 50  0001 C CNN
 	1    10250 2500
 	-1   0    0    1   
 $EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 61502E2E
+P 2000 2000
+F 0 "H1" H 2100 2046 50  0000 L CNN
+F 1 "MountingHole" H 2100 1955 50  0000 L CNN
+F 2 "myLib:MountingHole_3.2mm_M3_noResist" H 2000 2000 50  0001 C CNN
+F 3 "~" H 2000 2000 50  0001 C CNN
+	1    2000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6150486E
+P 3000 2000
+F 0 "H3" H 3100 2046 50  0000 L CNN
+F 1 "MountingHole" H 3100 1955 50  0000 L CNN
+F 2 "myLib:MountingHole_3.2mm_M3_noResist" H 3000 2000 50  0001 C CNN
+F 3 "~" H 3000 2000 50  0001 C CNN
+	1    3000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61504D8B
+P 2000 2500
+F 0 "H2" H 2100 2546 50  0000 L CNN
+F 1 "MountingHole" H 2100 2455 50  0000 L CNN
+F 2 "myLib:MountingHole_3.2mm_M3_noResist" H 2000 2500 50  0001 C CNN
+F 3 "~" H 2000 2500 50  0001 C CNN
+	1    2000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 61505176
+P 3000 2500
+F 0 "H4" H 3100 2546 50  0000 L CNN
+F 1 "MountingHole" H 3100 2455 50  0000 L CNN
+F 2 "myLib:MountingHole_3.2mm_M3_noResist" H 3000 2500 50  0001 C CNN
+F 3 "~" H 3000 2500 50  0001 C CNN
+	1    3000 2500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
